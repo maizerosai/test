@@ -1,0 +1,5 @@
+“天翼”、“家校通更新
+http://192.168.211.236:8083/ibc/loadRedis/load
+http://192.168.211.235:8083/ibc/loadRedis/load
+http://192.168.212.173:8083/ibc/loadRedis/load
+http://192.168.212.174:8083/ibc/loadRedis/load
